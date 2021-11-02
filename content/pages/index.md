@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: BIENVENIDO A TU METAVERSO DE CRIPTO INVERSIÓ
+    title: BIENVENIDO A TU METAVERSO DE CRIPTO INVERSIÓN
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
