@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: BIENVENIDO A TU METAVERSO DE CRIPTO INVERSIÓN
-    subtitle: Optional hero section subtitle
+    subtitle: INVERSIONES INTELIGENTES
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
